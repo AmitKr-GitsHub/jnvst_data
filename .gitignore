@@ -1,0 +1,3 @@
+# Generated conversion outputs (not committed; PR tool does not support binaries)
+results/*/*.xlsx
+results/*/*_csv/
