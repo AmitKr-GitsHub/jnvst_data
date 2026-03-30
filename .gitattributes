@@ -1,0 +1,3 @@
+# Ensure binary artifacts are treated correctly in Git/PR views
+*.pdf binary
+*.xlsx binary
